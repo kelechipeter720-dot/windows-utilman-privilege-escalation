@@ -24,4 +24,5 @@ Navigated to `C:\Windows\System32` and executed the following commands to back u
 ren utilman.exe utilman.bak
 copy cmd.exe utilman.exe
 
+📄 **[Download Presentation Deck (PPTX)](Presentation1.pptx)**
 
